@@ -1,10 +1,10 @@
 
 export default function Header() {
     return (
-        <div className="bg-[#2e2748] w-full h-20 text-[19px] lg:text-2xl font-bold text-white flex justify-center items-center overflow-hidden">
+        <div className="bg-[#2e2748] w-full h-20 lg:text-2xl font-bold text-white flex justify-center items-center overflow-hidden">
             <div className="flex gap-4">
                 <div>
-                    <h1>RM Eletrodoméstico</h1>
+                    <h1 className="mt-2 lg:mt-0 text-[15px] lg:text-2xl">RM Eletrodoméstico</h1>
                 </div>
                 <input
                     type="text"
