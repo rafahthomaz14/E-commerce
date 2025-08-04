@@ -82,9 +82,9 @@ export default function Footer() {
 
             <div className="bg-[#2e2748] text-white/80 text-sm py-4 px-6">
                 <div className="max-w-[1250px] mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
-                    <span>© 2025 <a href="#" className="hover:underline">RM Eletrodoméstico</a>. Todos os direitos reservados.</span>
+                    <span>© 2025 <a href="#" className="hover:underline">RM Eletrodoméstico</a></span>
                     <div className="space-x-4">
-                        <a href="#" className="hover:underline">Política de Privacidade</a>
+                        <a href="#" className="hover:underline">Todos os direitos reservados.</a>
                         <a href="#" className="hover:underline">Termos e Condições</a>
                     </div>
                 </div>
