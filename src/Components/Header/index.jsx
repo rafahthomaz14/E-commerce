@@ -1,5 +1,5 @@
 import { FaBars } from "react-icons/fa"
-import { useState } from "react"
+import { useState } from "react";
 
 export default function Header({ filtro, setFiltro, categoriaSelecionada, setCategoriaSelecionada }) {
   const [menuOpen, setMenuOpen] = useState(false)
