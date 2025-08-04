@@ -2,8 +2,8 @@ export default function Produtos() {
     return (
         <div className="p-5 gap-5 grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4">
             <div className="p-2 rounded-2xl">
-                <div className="bg-gray-200 rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
-                    PRODUTO
+                <div className="bg-white rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
+                    <img src="./img.png" className="h-70" alt="" />
                 </div>
                 <div className="py-2 text-[18px]">
                     <p>Fritadeira Sem Óleo Air Fryer 4l Mondial 1500W AFN-40-BFT</p>
@@ -16,15 +16,18 @@ export default function Produtos() {
                     </div>
 
                 </div>
-                <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
-                    Comprar pelo Mercado Livre
-                </button>
+                <a href="https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB23999810#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a9fb1006-06a2-4a48-8cc9-57102e5fa41a&tracking_id=292cb3d4-7a81-4d92-9d2e-42357a367d3f&c_id=/home/card-featured/element&c_uid=4d5c7c42-ea45-4fe2-b241-580d927dd19f" target="_blank" rel="noopener noreferrer">
+                    <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
+                        Comprar pelo Mercado Livre
+                    </button>
+                </a>
+
             </div>
 
 
             <div className="p-2 rounded-2xl">
-                <div className="bg-gray-200 rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
-                    PRODUTO
+                <div className="bg-white rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
+                    <img src="./img.png" className="h-70" alt="" />
                 </div>
                 <div className="py-2 text-[18px]">
                     <p>Fritadeira Sem Óleo Air Fryer 4l Mondial 1500W AFN-40-BFT</p>
@@ -37,15 +40,18 @@ export default function Produtos() {
                     </div>
 
                 </div>
-                <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
-                    Comprar pelo Mercado Livre
-                </button>
+                <a href="https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB23999810#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a9fb1006-06a2-4a48-8cc9-57102e5fa41a&tracking_id=292cb3d4-7a81-4d92-9d2e-42357a367d3f&c_id=/home/card-featured/element&c_uid=4d5c7c42-ea45-4fe2-b241-580d927dd19f" target="_blank" rel="noopener noreferrer">
+                    <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
+                        Comprar pelo Mercado Livre
+                    </button>
+                </a>
+
             </div>
 
 
             <div className="p-2 rounded-2xl">
-                <div className="bg-gray-200 rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
-                    PRODUTO
+                <div className="bg-white rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
+                    <img src="./img.png" className="h-70" alt="" />
                 </div>
                 <div className="py-2 text-[18px]">
                     <p>Fritadeira Sem Óleo Air Fryer 4l Mondial 1500W AFN-40-BFT</p>
@@ -58,17 +64,19 @@ export default function Produtos() {
                     </div>
 
                 </div>
-                <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
-                    Comprar pelo Mercado Livre
-                </button>
+                <a href="https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB23999810#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a9fb1006-06a2-4a48-8cc9-57102e5fa41a&tracking_id=292cb3d4-7a81-4d92-9d2e-42357a367d3f&c_id=/home/card-featured/element&c_uid=4d5c7c42-ea45-4fe2-b241-580d927dd19f" target="_blank" rel="noopener noreferrer">
+                    <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
+                        Comprar pelo Mercado Livre
+                    </button>
+                </a>
+
             </div>
 
 
 
-
             <div className="p-2 rounded-2xl">
-                <div className="bg-gray-200 rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
-                    PRODUTO
+                <div className="bg-white rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
+                    <img src="./img.png" className="h-70" alt="" />
                 </div>
                 <div className="py-2 text-[18px]">
                     <p>Fritadeira Sem Óleo Air Fryer 4l Mondial 1500W AFN-40-BFT</p>
@@ -81,10 +89,38 @@ export default function Produtos() {
                     </div>
 
                 </div>
-                <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
-                    Comprar pelo Mercado Livre
-                </button>
-            </div>           
+                <a href="https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB23999810#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a9fb1006-06a2-4a48-8cc9-57102e5fa41a&tracking_id=292cb3d4-7a81-4d92-9d2e-42357a367d3f&c_id=/home/card-featured/element&c_uid=4d5c7c42-ea45-4fe2-b241-580d927dd19f" target="_blank" rel="noopener noreferrer">
+                    <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
+                        Comprar pelo Mercado Livre
+                    </button>
+                </a>
+
+            </div>
+
+<div className="p-2 rounded-2xl">
+                <div className="bg-white rounded-t-2xl rounded-b-none h-70 flex items-center justify-center">
+                    <img src="./img.png" className="h-70" alt="" />
+                </div>
+                <div className="py-2 text-[18px]">
+                    <p>Fritadeira Sem Óleo Air Fryer 4l Mondial 1500W AFN-40-BFT</p>
+                    <h1 className="flex  mt-[-20px] justify-end font-bold text-[25px]">R$ 252,52</h1>
+                    <div className="flex justify-between">
+                        <div className="bg-blue-500 px-2 text-white font-bold">
+                            Frete gratis
+                        </div>
+                        <h1 className="flex justify-end font-bold">6x R$42,09 sem juros</h1>
+                    </div>
+
+                </div>
+                <a href="https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB23999810#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a9fb1006-06a2-4a48-8cc9-57102e5fa41a&tracking_id=292cb3d4-7a81-4d92-9d2e-42357a367d3f&c_id=/home/card-featured/element&c_uid=4d5c7c42-ea45-4fe2-b241-580d927dd19f" target="_blank" rel="noopener noreferrer">
+                    <button className="bg-green-500 text-[18px] p-2 w-full rounded text-white font-bold hover:bg-green-600 transition duration-200 ease-in-out">
+                        Comprar pelo Mercado Livre
+                    </button>
+                </a>
+
+            </div>
+
+
 
         </div>
 
