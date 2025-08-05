@@ -21,7 +21,7 @@ export default function Header({ filtro, setFiltro, categoriaSelecionada, setCat
           type="text"
           value={filtro}
           onChange={(e) => setFiltro(e.target.value)}
-          className="bg-white p-2 text-sm text-black placeholder-gray-700 rounded focus:outline-none w-[200px] sm:w-[350px] md:w-[450px]"
+          className="bg-white p-2 text-sm text-black placeholder-gray-700 rounded focus:outline-none w-[180px] sm:w-[350px] md:w-[450px]"
           placeholder="Olá, o que você procura?"
         />
 
