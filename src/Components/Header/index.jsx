@@ -15,7 +15,7 @@ export default function Header({ filtro, setFiltro, categoriaSelecionada, setCat
       </button>
 
       <div className="flex gap-4 justify-center items-center w-full">
-        <h1 className=" text-[15px] lg:text-2xl whitespace-nowrap">RM Eletrodoméstico</h1>
+        <h1 className=" ml-1 text-[15px] lg:text-2xl whitespace-nowrap">RM Eletrodoméstico</h1>
 
         <input
           type="text"
