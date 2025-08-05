@@ -19,7 +19,7 @@ export default function Produtos({ filtro, categoriaSelecionada }) {
     {
       nome: "Sanduicheira Brunch Time 2 Em 1 Elgin Antiaderente Preta",
       preco: "R$ 60,88",
-      condicao: "8x R$9,75 com Linha de Crédito",
+      condicao: "8x R$9,75 sem juros",
       img: "./img3.png",
       categoria: "Sanduicheiras",
       link: "https://www.mercadolivre.com.br/sanduicheira-brunch-time-2-em-1-elgin-antiaderente-preta/p/MLB40003885#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3d5bd3d4-f1b2-4304-ae0d-521ea3222661&tracking_id=e85b66e5-58bc-4b8c-aa37-b534fef65ce0&c_id=/home/card-featured/element&c_uid=60bbdea2-f80c-476c-9b23-cdcd4066a320"
@@ -35,7 +35,7 @@ export default function Produtos({ filtro, categoriaSelecionada }) {
     {
       nome: "Cafeteira portátil Nescafé Dolce Gusto Arno Mini Me automática vermelha e preta para cápsulas monodose",
       preco: "R$ 449,90",
-      condicao: "18x R$72,02 com Linha de Crédito",
+      condicao: "18x R$72,02 sem juros",
       img: "./img5.png",
       categoria: "Cafeteiras",
       link: "https://www.mercadolivre.com.br/cafeteira-portatil-nescafe-dolce-gusto-arno-mini-me-automatica-vermelha-e-preta-para-capsulas-monodose/p/MLB15154784#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=47c3182a-3b5d-4e44-8705-79bef3a1e2c1&tracking_id=7ae046b6-1c16-404c-8c04-8ca2dfcb05ff&wid=MLB3285358470&sid=recos&c_id=/home/card-featured/element&c_uid=58be08e9-90c0-4fd9-ad06-4a9733baf27b"
@@ -43,7 +43,7 @@ export default function Produtos({ filtro, categoriaSelecionada }) {
     {
       nome: "Ventilador de Mesa Elgin Breeze Air Preto 40cm 7 Pá Preto 127V",
       preco: "R$ 109,90",
-      condicao: "18x R$17,59 com Linha de Crédito",
+      condicao: "18x R$17,59 sem juros",
       img: "./img8.png",
       categoria: "Ventiladores",
       link: "https://www.mercadolivre.com.br/ventilador-de-mesa-elgin-breeze-air-preto-40cm-7-pas/p/MLB43068578#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6fd3d178-9748-4668-8c92-c18a8a534edb&tracking_id=d713805b-1933-4d99-9518-471c32054363&c_id=/home/card-featured/element&c_uid=769df9e2-7c8a-477d-bbb3-3b9c24c25e03"
@@ -70,7 +70,7 @@ export default function Produtos({ filtro, categoriaSelecionada }) {
     {
       nome: "Sanduicheira Elétrica Cadence SAN400 Potência de 750W Preto",
       preco: "R$ 123,00",
-      condicao: "18x R$19,69 com Linha de Crédito",
+      condicao: "18x R$19,69 sem juros",
       img: "./img9.png",
       categoria: "Sanduicheiras",
       link: "https://www.mercadolivre.com.br/sanduicheira-eletrica-cadence-san400-potncia-de-750w-preto/p/MLB25741527#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0e848205-ce17-4a03-8051-366ccc78b7ba&tracking_id=d286a061-e7e0-490f-8ddd-221de89d93eb&c_id=/home/card-featured/element&c_uid=22252d72-f08a-4c03-91c4-9ef7314367a8"
@@ -78,7 +78,7 @@ export default function Produtos({ filtro, categoriaSelecionada }) {
     {
       nome: "Fogão Cooktop Elétrico Elgin 2 Bocas 2000w Preto",
       preco: "R$ 103,90",
-      condicao: "18x R$16,63 com Linha de Crédito",
+      condicao: "18x R$16,63 sem juros",
       img: "./img6.png",
       categoria: "Fogão",
       link: "https://www.mercadolivre.com.br/fogo-cooktop-eletrico-elgin-2-bocas-2000w-preto/p/MLB24197945#reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=dd133973-de8a-4e16-bc62-31de2a691f02&tracking_id=12e96ac1-af58-4c95-be2f-c2509779a5ba&c_id=/home/card-featured/element&c_uid=3b7aaf76-72d1-482a-ac3b-69f371302466"
